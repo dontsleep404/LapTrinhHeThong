@@ -1,5 +1,4 @@
-gcc reader.c -o reader
-./reader
-
-gcc writer.c -o writer
-./writer 'string'
+`gcc writer.c -o writer`
+`./writer 'hello world'`
+`gcc reader.c -o reader`
+`./reader`
