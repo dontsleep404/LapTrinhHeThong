@@ -1,4 +1,4 @@
-`gcc writer.c -o writer`
-`./writer 'hello world'`
-`gcc reader.c -o reader`
+`gcc writer.c -o writer`<br>
+`./writer 'hello world'`<br>
+`gcc reader.c -o reader`<br>
 `./reader`
